@@ -126,6 +126,27 @@ const entries = [
 
 
 {
+  category: "washroom",
+  title: "the peculiarities of drying linen",
+
+  content: [
+    "there are few household sights quite as pleasant as freshly washed linens hanging in the sunshine. on a clear, breezy day, i find a particular satisfaction in arranging them upon the clothesline, watching the fabric stir gently in the wind .. and there is something lovely about bringing everything indoors again, clean and dry, with that familiar sun-kissed fragrance ♡",
+
+    "air drying is especially agreeable for delicate garments and fabrics that do not tolerate the heat or tumbling of a dryer particularly well. still, it has its little peculiarities : some textiles become rather stiff as they dry, and a humid or rainy day can make the whole affair terribly inconvenient !",
+
+    "this is where i find the tumble dryer such a useful companion. i particularly prefer it for towels and everyday napkins, which emerge wonderfully soft and pleasant to handle. the gentle tumbling helps prevent their fibers from settling into the rigid arrangement they might acquire while hanging motionless, making even an ordinary towel feel a little more inviting.",
+
+    "i think there is room for both methods in a well-kept household - some days call for the clothesline and the pleasure of sunshine, while others are better suited to the quiet convenience of a machine. knowing which method suits a particular fabric is part of becoming acquainted with one's linens .. and isn't it nice to have a choice ?"
+  ],
+
+  footnotes: [
+    "it's important to note that direct sunlight may help fresh laundry dry quickly, but prolonged exposure can fade dyes and weaken certain fibers. at the same time, excessive heat when tumble drying can contribute to shrinkage, wear, and lint loss. delicate or brightly colored textiles often benefit from drying in the shade !",
+  ]
+},
+
+
+
+{
   category: "sitting",
   title: "a room prepared for company",
 
