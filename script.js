@@ -24,7 +24,7 @@ const entries = [
   title: "a note on the changing light",
 
   content: [
-    "the light that enters a home is never quite the same throughout the year. a window that receives generous sunshine in one season may be comparatively shaded in another. familiar objects cast different shadows, and a room may seem warmer or cooler even before the temperature has noticeably changed. these variations arise partly from the changing path of the sun across the sky.",
+    "the light that enters a home is never quite the same throughout the year : a window that receives generous sunshine in one season may be comparatively shaded in another, familiar objects cast different shadows, and a room may seem warmer or cooler even before the temperature has noticeably changed .. these variations arise partly from the changing path of the sun across the sky.",
 
     "it is curious how the arrangement of a home can be influenced by something so distant and dependable : a reading chair may be especially pleasant in one season, while a particular windowsill becomes the favored place for plants in another ( and how quickly the plants seem to find their favorite places ! )",
 
@@ -114,7 +114,7 @@ const entries = [
   content: [
     "a garden seems to continue its conversation with the household when a few flowers are brought inside. even the simplest arrangement can make a room feel a little more cheerful ( especially when the blossoms have only just opened ♡ )",
 
-    "a single stem in a modest vase can be enough to change the character of a windowsill or table. flowers invite attention to shape, fragrance, color, and the curious ways in which living things alter over the course of a day. some blossoms open further after cutting, while others begin almost immediately to fade. leaves may turn toward the light, petals may fall, and the water in a vase gradually becomes part of the care they require.",
+    "a single stem in a modest vase can be enough to change the character of a windowsill or table. flowers invite attention to shape, fragrance, color, and the curious ways in which living things alter over the course of a day : some blossoms open further after cutting, while others begin almost immediately to fade. leaves may turn toward the light, petals may fall, and the water in a vase gradually becomes part of the care they require.",
 
     "there is a fleeting sweetness in such arrangements : they are not possessions intended to remain unchanged, but temporary visitors whose beauty belongs partly to their briefness .. perhaps that is why i find them so precious."
   ],
