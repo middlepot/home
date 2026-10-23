@@ -1,0 +1,89 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>the domestic commonplace</title>
+  <link rel="icon" href="./img/favicon.png" type="image/x-icon">
+
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+
+  <div class="site-wrapper">
+
+    <header class="site-header">
+      <br><h1>the domestic commonplace</h1>
+      <p class="subtitle">notes on the gentle art of homemaking</p><br>
+    </header>
+
+    <main class="commonplace">
+
+      <div class="tabs-wrapper">
+
+      <nav class="category-tabs" aria-label="entry categories">
+        <button class="tab active" data-category="all">all entries</button>
+        <button class="tab" data-category="kitchen">kitchen</button>
+        <button class="tab" data-category="washroom">washroom</button>
+        <button class="tab" data-category="sewing">sewing basket</button>
+        <button class="tab" data-category="sitting">sitting room</button>
+        <button class="tab" data-category="garden">garden</button>
+        <button class="tab" data-category="writing">writing desk</button>
+        <a
+  class="tab fragment-tab"
+  href="http://room.puf.li"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  fragment ↗
+</a>
+      </nav>
+
+  <button
+    class="tabs-next"
+    type="button"
+    aria-label="scroll to more categories"
+  >
+    ›
+  </button>
+
+</div>
+<div class="journal-wrapper">
+  
+<section class="journal" aria-label="commonplace entries">
+
+  <div class="journal-scroll">
+
+    <div id="entries-container" class="entries-container">
+    </div>
+
+    <p id="empty-message" class="empty-message" hidden>
+      there are no notes here just yet ..
+    </p>
+
+    <nav
+      id="pagination"
+      class="pagination"
+      aria-label="journal pages"
+    ></nav>
+
+  </div>
+
+</section>
+
+  <img
+    src="./img/teddy.png"
+    class="journal-mascot"
+  >
+
+</div>
+    </main>
+  </div>
+
+  <script src="./script.js"></script>
+</body>
+</html>
