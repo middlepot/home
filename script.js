@@ -127,7 +127,7 @@ const entries = [
 
 {
   category: "washroom",
-  title: "the peculiarities of drying linen",
+  title: "a little sunshine, a little warmth",
 
   content: [
     "there are few household sights quite as pleasant as freshly washed linens hanging in the sunshine. on a clear, breezy day, i find a particular satisfaction in arranging them upon the clothesline, watching the fabric stir gently in the wind .. and there is something lovely about bringing everything indoors again, clean and dry, with that familiar sun-kissed fragrance ♡",
