@@ -6,11 +6,11 @@ const entries = [
   title: "a home is never quite finished",
 
   content: [
-    "there is a temptation to imagine that a home will someday reach a perfect and permanent state. every object will have found its place, every corner will be arranged exactly as intended, and nothing will remain to be improved. wouldn't that be something ?",
+    "there is a temptation to imagine that a home will someday reach a perfect and permanent state - every object will have found its place, every corner will be arranged exactly as intended, and nothing will remain to be improved. wouldn't that be something ?",
 
     "but homes have a way of resisting such conclusions ..",
 
-    "the people who inhabit them change. their habits develop, their interests wander, and the objects they once considered essential may gradually become unnecessary. even the seasons ask different things of the rooms in which we live.",
+    "the people who inhabit them change : their habits develop, their interests wander, and the objects they once considered essential may gradually become unnecessary. even the seasons ask different things of the rooms in which we live.",
 
     "i have begun to think that this unfinished quality is not a defect - a home ought to be capable of growing alongside its inhabitants. it should make room for new customs, unexpected discoveries, and the occasional rearrangement of familiar things. a finished home might be a rather lonely one, for it would have nothing left to learn about the people living inside it .. and what a pity that would be !"
   ],
@@ -60,7 +60,7 @@ const entries = [
   title: "the peculiarities of hard water",
 
   content: [
-    "not all water behaves alike in the household. some water produces a generous lather with very little soap, while other water seems to demand more. a kettle may develop a pale mineral crust, glassware may acquire cloudy spots, and freshly washed surfaces may dry with visible traces ( rather frustrating after one has just finished cleaning them ). these familiar inconveniences often have a common explanation : dissolved minerals, particularly calcium and magnesium.",
+    "not all water behaves alike in the household - some water produces a generous lather with very little soap, while other water seems to demand more. a kettle may develop a pale mineral crust, glassware may acquire cloudy spots, and freshly washed surfaces may dry with visible traces ( rather frustrating after one has just finished cleaning them ). these familiar inconveniences often have a common explanation : dissolved minerals, particularly calcium and magnesium.",
 
     "but hard water is not necessarily dirty. its hardness is a matter of mineral composition rather than cleanliness.",
 
