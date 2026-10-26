@@ -2,6 +2,26 @@ const entries = [
 
 
 {
+  category: "washroom",
+  title: "the wisdom of a little dampness",
+
+  content: [
+    "there is a particular satisfaction in ironing a piece of freshly washed linen while it is still a little damp - the fabric seems more willing to cooperate, its stubborn creases yielding beneath the warm iron, until what was once rather crumpled becomes smooth and beautifully crisp !",
+
+    "this little household custom has a curious explanation. cotton and linen are made chiefly of cellulose, whose molecular structure is held together in part by hydrogen bonds. moisture temporarily makes these connections easier to rearrange, allowing the fibers to respond more readily to the pressure and warmth of the iron .. as the fabric dries, new bonds help preserve its freshly smoothed appearance.",
+
+    "i find it especially agreeable when pressing table linens, handkerchiefs, and other little household textiles that look so lovely with a neat finish. of course, one need not always catch the laundry at precisely the right moment : a light sprinkling of water can make an already dry piece more cooperative ( a rather useful trick when the washing has been left unattended for too long ! )",
+
+    "and what a pleasure it is to fold a little pile of freshly pressed linens, all smooth and ready for their next occasion .. ♡"
+  ],
+
+  footnotes: [
+    "of course, fabric should be only slightly damp rather than wet for ordinary ironing. the appropriate temperature depends on the textile's construction and finish ; excessive heat can damage fibers or leave unwanted shine !"
+  ]
+},
+
+
+{
   category: "writing",
   title: "a home is never quite finished",
 
