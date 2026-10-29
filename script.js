@@ -2,6 +2,26 @@ const entries = [
 
 
 {
+  category: "sewing",
+  title: "a stitch against time",
+
+  content: [
+    "i find that a garment that has been worn often enough to require a little mending is something rather admirable. a thinning heel, a small hole at the elbow, or a patch of fabric beginning to lose its strength may seem like troubles, but they need not mean the end of something useful ( especially when it has become a particular favorite ♡ )",
+
+    "darning is a curious little art, for it does not merely close a hole - it attempts to replace what has been lost. by carrying threads back and forth across a worn area, then weaving another set through them, one can create a small new structure where the original fabric has given way. the result may not be entirely invisible, but there is a quiet satisfaction in seeing the threads gather into something strong and useful once again.",
+
+    "i imagine that the work becomes especially pleasant when done without haste, with a little sewing basket nearby and the garment resting comfortably in one's lap. it is reassuring to know that a favorite pair of stockings or a well-loved woolen can be granted a little more time through such simple means .. and how lovely it is when the repair becomes part of its history !",
+
+    "this is what i find most appealing about darning : it asks us to see wear not simply as damage, but as evidence of a life spent in use. a careful repair allows that life to continue, one stitch at a time."
+  ],
+
+  footnotes: [
+    "reinforcing an area while its threads are merely thinning, rather than waiting for a large hole to form, can make the repair easier and help distribute strain across stronger surrounding fabric."
+  ]
+},
+
+
+{
   category: "washroom",
   title: "the wisdom of a little dampness",
 
@@ -761,7 +781,7 @@ function renderEntries() {
     const backLink = document.createElement("a");
     backLink.href = window.location.pathname;
     backLink.className = "back-to-journal";
-    backLink.textContent = "‹ back to the journal";
+    backLink.textContent = "‹ go back";
 
     backLink.addEventListener("click", event => {
 
