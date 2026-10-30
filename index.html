@@ -9,7 +9,7 @@
   <link rel="icon" href="./img/favicon.png" type="image/x-icon">
 
   <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="./style.css">
+  <link rel="stylesheet" href="./style.css?v=26-10-30">
 </head>
 
 <body>
@@ -19,6 +19,21 @@
     <header class="site-header">
       <br><h1>the domestic commonplace</h1>
       <p class="subtitle">notes on the gentle art of homemaking</p><br>
+               <div class="music-player">
+<button class="music-toggle" aria-label="Play music" type="button">
+    <svg class="play-icon" viewBox="0 0 24 24" fill="currentColor">
+      <path d="M8 5v14l11-7z"/>
+    </svg>
+    <svg class="pause-icon" viewBox="0 0 24 24" fill="currentColor" hidden>
+      <path d="M6 5h4v14H6zm8 0h4v14h-4z"/>
+    </svg>
+  </button>
+  <input class="music-progress" type="range"
+         min="0" max="100" value="0"
+         aria-label="Music progress">
+  <audio autoplay loop preload="metadata" src="a_cozy_home.mp3"></audio>
+</div> 
+<script src="musicplayer.js"></script>
     </header>
 
     <main class="commonplace">
