@@ -12,7 +12,7 @@ const entries = [
 
     "of course, wood asks for a little consideration in return - i like to wash my utensils by hand, with warm water and a little soap, rather than leave them soaking in the sink ; prolonged moisture can cause the fibers to swell, while repeated wetting and drying may eventually lead to cracks or warping. drying them promptly and allowing them to air thoroughly before putting them away is a small habit that makes quite a difference .. and occasionally rubbing a dry, unfinished utensil with a little food-safe mineral oil can help maintain its surface. beeswax can be combined with it to create a soft polishing balm that adds a modest degree of water resistance and a gentle sheen !",
 
-    "perhaps what i like most is how a wooden spoon gradually becomes acquainted with the household it belongs to .. its surface may grow smoother with handling, its color deepen a little, and its shape become as familiar as the recipes for which it is used. a simple tool that asks for so little, and gives so many years of useful service in return ♡"
+    "what i like most is how a wooden spoon gradually becomes acquainted with the household it belongs to .. its shape become as familiar as the recipes for which it is used. a simple tool that asks for so little, and gives so many years of useful service in return ♡"
   ],
 
   footnotes: []
