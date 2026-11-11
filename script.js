@@ -2,6 +2,24 @@ const entries = [
 
 
 {
+  category: "kitchen",
+  title: "the gentle nature of wood",
+
+  content: [
+    "i have always been rather fond of wooden kitchen utensils. there is something particularly agreeable about the warmth of a wooden spoon in one's hand, especially when stirring a pot of something comforting on the stove .. unlike metal, wood does not immediately feel cold to the touch, and its gentle surface is kind to the bottoms of pots and pans ( a very welcome quality when one is trying to keep them looking their best ! )",
+
+    "wood has a few interesting properties that make it such a pleasant companion in the kitchen : it conducts heat rather poorly, so the handle of a wooden spoon is less inclined to become uncomfortably hot while stirring. its slight natural texture also makes it comfortable to grip, even when one's hands are a little damp. and because it is comparatively soft, a well-finished wooden utensil can be used with delicate cooking surfaces without the scratching one might expect from harder materials.",
+
+    "of course, wood asks for a little consideration in return - i like to wash my utensils by hand, with warm water and a little soap, rather than leave them soaking in the sink ; prolonged moisture can cause the fibers to swell, while repeated wetting and drying may eventually lead to cracks or warping. drying them promptly and allowing them to air thoroughly before putting them away is a small habit that makes quite a difference .. and occasionally rubbing a dry, unfinished utensil with a little food-safe mineral oil can help maintain its surface. beeswax can be combined with it to create a soft polishing balm that adds a modest degree of water resistance and a gentle sheen !",
+
+    "perhaps what i like most is how a wooden spoon gradually becomes acquainted with the household it belongs to .. its surface may grow smoother with handling, its color deepen a little, and its shape become as familiar as the recipes for which it is used. a simple tool that asks for so little, and gives so many years of useful service in return ♡"
+  ],
+
+  footnotes: []
+},
+
+
+{
   category: "sewing",
   title: "a stitch against time",
 
